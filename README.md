@@ -16,4 +16,4 @@
 
 # Ejecución de la app
 
-* `node app & ; node server ; wait`
+* `node app & node server wait`
