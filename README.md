@@ -14,6 +14,7 @@
 * npm: se puede comprobar haciendo `npm -v`
 * MongoDB: debe haber sido inicializado como demonio: `sudo systemctl start mongodb`
 
-# Ejecución de la app
+# Instalación y ejecución
 
-* `node app & node server wait`
+* Para instalar los componentes: `make install`
+* Para lanzar la aplicación: `make start`
